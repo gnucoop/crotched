@@ -1,0 +1,30 @@
+{
+  "name": "@crotched/material-luxon-adapter",
+  "version": "0.0.1",
+  "description": "Crotched components for Angular",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnucoop/crotched.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "components",
+    "crotched",
+    "luxon",
+    "adapter"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnucoop/crotched/issues"
+  },
+  "homepage": "https://github.com/gnucoop/crotched#readme",
+  "peerDependencies": {
+    "@angular/core": "^11.0.0 || 12.0.0-0",
+    "@angular/material": "^11.0.0 || 12.0.0-0",
+    "luxon": "^1.26.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
